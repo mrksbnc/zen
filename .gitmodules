@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/mrksbnc/bonsai
+[submodule "shohin"]
+	path = shohin
+	url = https://github.com/mrksbnc/shohin
