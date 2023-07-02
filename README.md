@@ -1,7 +1,3 @@
-# Shohin
+# Zen
 
-shohin ("tiny things" in Japanese) is a sandbox application for the `Bonsai` engine related services
-
-# Documentation
-
-To find more information about the engine check [Bonsai](bonsai/README.md) documentation.
+Wrapper project around [bonsai](engine/README.md) and [shohin](shohin/README.md) to use it as the test bed for the bonsai engine and its functionality.
